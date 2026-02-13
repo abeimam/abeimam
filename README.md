@@ -21,19 +21,6 @@
 
 I'm an AI Engineer specializing in **Computer Vision** and **Large Language Models**. My passion lies in architecting efficient neural networks and pushing the boundaries of what's possible with deep learning.
 
-class AbeImam:
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.specialties = [
-            "Computer Vision",
-            "LLM Architecture & Fine-tuning",
-            "Generative AI"
-        ]
-        self.current_focus = "Training LLMs from scratch & Efficient Attention Mechanisms"
-        self.mentality = "Production-first research"
-    
-    def daily_routine(self):
-        return ["Train models", "Read papers", "Write code", "Optimize", "Deploy"]
 
 ---
 
