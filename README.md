@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👨‍💻 Abe Imam
+  # 👨‍💻 Yusuf Imam
   
   ### 🧠 AI Engineer | Machine Learning Researcher | Computer Vision Specialist
   
