@@ -21,7 +21,6 @@
 
 I'm an AI Engineer specializing in **Computer Vision** and **Large Language Models**. My passion lies in architecting efficient neural networks and pushing the boundaries of what's possible with deep learning.
 
-```python
 class AbeImam:
     def __init__(self):
         self.role = "AI Engineer"
@@ -157,6 +156,24 @@ https://github-profile-trophy.vercel.app/?username=abeimam&theme=radical&no-fram
 💡 Patent Pending - Efficient attention mechanism for edge devices
 
 📈 Current Focus & Goals
+mindmap
+  root((2024-2025))
+    LLM Development
+      Train 3B model from scratch
+      Implement MoE architecture
+      Release open-source weights
+    Computer Vision
+      Real-time video understanding
+      Multi-modal models
+      Edge deployment
+    MLOps
+      Distributed training pipeline
+      Automated model serving
+      Monitoring & observability
+    Community
+      Open-source projects
+      Technical writing
+      Mentoring
 🎯 Weekly Development Breakdown
 text
 PyTorch/TensorFlow    █████████░░░   78% 
@@ -179,4 +196,4 @@ Open for research collaborations and engineering roles! 🚀
 <img src="https://komarev.com/ghpvc/?username=abeimam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 ⭐️ From abeimam
 
-</div> ```
+</div> 
