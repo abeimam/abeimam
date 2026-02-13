@@ -1,21 +1,15 @@
 <div align="center">
   
-  # 👨‍💻 Yusuf Imam
+  # Yusuf Imam
   
-  ### 🧠 AI Engineer | Machine Learning Researcher | Computer Vision Specialist
+  ### AI Engineer | Machine Learning Researcher | Computer Vision Specialist
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+AI+Systems;LLM+Architecture+%7C+Fine-tuning+%7C+From+Scratch;Computer+Vision+%7C+Generative+AI;MLOps+%7C+Production+ML)](https://git.io/typing-svg)
-  
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yousuf_abe_imam)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/the_abe_02)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Abe200348)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abeimam)
-  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+AI+Systems;Training+LLMs+From+Scratch;Computer+Vision+%7C+Generative+AI;MLOps+%7C+Production+ML)](https://git.io/typing-svg)
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 > *"Building intelligence, one model at a time."*
 
@@ -24,22 +18,22 @@ I'm an AI Engineer specializing in **Computer Vision** and **Large Language Mode
 
 ---
 
-## 🧠 Core Competencies
+## Core Competencies
 
 <div align="center">
 
 | Domain | Expertise | Current Projects |
 |--------|-----------|------------------|
-| **🤖 LLM Engineering** | Architecture Design, Fine-tuning, RLHF, Quantization | Training 1B param model from scratch |
-| **👁️ Computer Vision** | Object Detection, Segmentation, GANs, Vision Transformers | Real-time detection system |
-| **🔧 MLOps** | Distributed Training, Model Serving, Optimization | LLM deployment pipeline |
-| **📚 Research** | Attention Mechanisms, Efficient Architectures | Novel KV-cache design |
+| **LLM Engineering** | Architecture Design, Fine-tuning, RLHF, Quantization | Training 1B param model from scratch |
+| **Computer Vision** | Object Detection, Segmentation, GANs, Vision Transformers | Real-time detection system |
+| **MLOps** | Distributed Training, Model Serving, Optimization | LLM deployment pipeline |
+| **Research** | Attention Mechanisms, Efficient Architectures | Novel KV-cache design |
 
 </div>
 
 ---
 
-## 💻 Technical Arsenal
+## Technical Arsenal
 
 ### **Core ML/DL Stack**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -53,7 +47,7 @@ I'm an AI Engineer specializing in **Computer Vision** and **Large Language Mode
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFB71B?style=for-the-badge)
 ![LoRA](https://img.shields.io/badge/LoRA-PEFT-9B59B6?style=for-the-badge)
-![QLoRA](https://img.shields.io/badge/QLoRA-4-bit-27AE60?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-4%20bit-27AE60?style=for-the-badge)
 
 ### **Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -76,11 +70,11 @@ I'm an AI Engineer specializing in **Computer Vision** and **Large Language Mode
 
 
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### 🦙 **LLM Architecture & Training**
+### **LLM Architecture & Training**
 project: "Efficient-LLM-From-Scratch"
-status: 🚧 In Development
+status:  In Development
 parameters: 1.2B
 architecture:
   - Multi-Query Attention
@@ -97,10 +91,10 @@ features:
   - Quantization ready
 
 
-### 👁️ **Computer Vision Systems**
+### **Computer Vision Systems**
 
 project: "Real-time Object Detection Pipeline"
-status: ✅ Production
+status: Production
 tech_stack: [YOLOv8, TensorRT, Triton Server]
 optimization:
   - FP16 precision
@@ -112,9 +106,9 @@ deployment:
   - <10ms latency
 
 
-### 🤗 **Fine-tuning Studio**
+### **Fine-tuning Studio**
 project: "LLM-Fine-tuning-Framework"
-status: 🚀 Active
+status: Active
 techniques:
   - LoRA/QLoRA
   - Prefix Tuning
@@ -131,39 +125,24 @@ efficiency:
 
 ---
 
-## 📚 Research & Development
+## Research & Development
 
 ### Current Research Focus
-- 🔬 **Efficient Attention Mechanisms** - Reducing KV-cache memory footprint
-- 📐 **Neural Architecture Search** - Automated ViT architecture discovery
-- ⚡ **Model Compression** - 2-bit quantization for LLMs
-- 🎯 **Few-shot Learning** - Meta-learning approaches for CV
+-  **Efficient Attention Mechanisms** - Reducing KV-cache memory footprint
+-  **Neural Architecture Search** - Automated ViT architecture discovery
+-  **Model Compression** - 2-bit quantization for LLMs
+-  **Few-shot Learning** - Meta-learning approaches for CV
 
 ### Reading & Implementing
-📖 "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
-📖 "LLaMA: Open and Efficient Foundation Language Models"
-📖 "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
-📖 "QLoRA: Efficient Finetuning of Quantized LLMs"
+"FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
+"LLaMA: Open and Efficient Foundation Language Models"
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+"QLoRA: Efficient Finetuning of Quantized LLMs"
 
 
 ---
 
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abeimam&theme=radical&no-frame=true&margin-w=4&row=1&column=7" />
-</div>
-
-- 📦 **Open Source Contributor** - PyTorch, Hugging Face Transformers
-- 🎤 **Conference Speaker** - PyData, ML Conf (2024)
-- 📝 **Technical Writer** - Towards Data Science, ML Blog
-- 💡 **Patent Pending** - Efficient attention mechanism for edge devices
-
----
-
-## 📈 Current Focus & Goals
+## Current Focus & Goals
 
 mindmap
   root((2024-2025))
@@ -187,7 +166,7 @@ mindmap
 
 ---
 
-## 🎯 Weekly Development Breakdown
+## Weekly Development Breakdown
 
 PyTorch/TensorFlow    █████████░░░   78% 
 Research Papers       ████████░░░░   65% 
@@ -198,28 +177,15 @@ Deployment/MLOps      █████░░░░░░░   45%
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yousuf_abe_imam)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/the_abe_02)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Abe200348)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abeimam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamskhan404)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamskhan404)
 
-**Open for research collaborations and engineering roles!** 🚀
+**Open for research collaborations and engineering roles!**
 
 </div>
 
 ---
-
-<div align="center">
-  
-### 💡 *"The best way to predict the future is to build it."*
-
-<img src="https://komarev.com/ghpvc/?username=abeimam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
-⭐️ From [abeimam](https://github.com/abeimam)
-
-</div>
-
