@@ -161,22 +161,7 @@ efficiency:
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abeimam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abeimam&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abeimam&theme=redical&hide_border=true&area=true" width="98%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeimam&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
