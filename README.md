@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   
   # 👨‍💻 Abe Imam
@@ -22,7 +21,6 @@
 
 I'm an AI Engineer specializing in **Computer Vision** and **Large Language Models**. My passion lies in architecting efficient neural networks and pushing the boundaries of what's possible with deep learning.
 
-```python
 class AbeImam:
     def __init__(self):
         self.role = "AI Engineer"
@@ -36,7 +34,6 @@ class AbeImam:
     
     def daily_routine(self):
         return ["Train models", "Read papers", "Write code", "Optimize", "Deploy"]
-```
 
 ---
 
@@ -90,12 +87,11 @@ class AbeImam:
 ![cuDF](https://img.shields.io/badge/cuDF-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Dask](https://img.shields.io/badge/Dask-FDA061?style=for-the-badge&logo=dask&logoColor=white)
 
----
+
 
 ## 🔬 Featured Projects
 
 ### 🦙 **LLM Architecture & Training**
-```yaml
 project: "Efficient-LLM-From-Scratch"
 status: 🚧 In Development
 parameters: 1.2B
@@ -112,10 +108,10 @@ features:
   - Custom tokenizer
   - Efficient KV-cache
   - Quantization ready
-```
+
 
 ### 👁️ **Computer Vision Systems**
-```yaml
+
 project: "Real-time Object Detection Pipeline"
 status: ✅ Production
 tech_stack: [YOLOv8, TensorRT, Triton Server]
@@ -127,10 +123,9 @@ deployment:
   - Kubernetes cluster
   - Auto-scaling
   - <10ms latency
-```
+
 
 ### 🤗 **Fine-tuning Studio**
-```yaml
 project: "LLM-Fine-tuning-Framework"
 status: 🚀 Active
 techniques:
@@ -145,7 +140,7 @@ efficiency:
   - 4-bit quantization
   - Gradient checkpointing
   - Flash attention
-```
+
 
 ---
 
@@ -158,12 +153,11 @@ efficiency:
 - 🎯 **Few-shot Learning** - Meta-learning approaches for CV
 
 ### Reading & Implementing
-```
 📖 "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
 📖 "LLaMA: Open and Efficient Foundation Language Models"
 📖 "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
 📖 "QLoRA: Efficient Finetuning of Quantized LLMs"
-```
+
 
 ---
 
@@ -199,7 +193,6 @@ efficiency:
 
 ## 📈 Current Focus & Goals
 
-```mermaid
 mindmap
   root((2024-2025))
     LLM Development
@@ -218,19 +211,18 @@ mindmap
       Open-source projects
       Technical writing
       Mentoring
-```
+
 
 ---
 
 ## 🎯 Weekly Development Breakdown
 
-```text
 PyTorch/TensorFlow    █████████░░░   78% 
 Research Papers       ████████░░░░   65% 
 Model Optimization    ███████░░░░░   60%  
 Architecture Design   ██████░░░░░░   52%  
 Deployment/MLOps      █████░░░░░░░   45%  
-```
+
 
 ---
 
@@ -258,5 +250,4 @@ Deployment/MLOps      █████░░░░░░░   45%
 ⭐️ From [abeimam](https://github.com/abeimam)
 
 </div>
-```
 
