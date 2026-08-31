@@ -201,16 +201,6 @@ Writing & Documentation       ██████░░░░░░░░░░�
 - [ ] Mentor 2-3 junior ML engineers
 - [ ] Contribute to major open-source projects
 
----
-
-## 📌 Quick Stats
-
-- **GitHub**: 1.2K+ stars across projects | Active contributor
-- **Open Source**: 20+ public repositories | Thousands of downloads/month
-- **Writing**: Technical blog with 50K+ monthly readers
-- **Community**: Spoke at 3 ML conferences | Organized 2 local ML meetups
-
----
 
 <div align="center">
 
