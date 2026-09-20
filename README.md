@@ -11,7 +11,6 @@ I build production-grade AI systems with a focus on **performance**, **scalabili
 I specialize in **training and deploying LLMs at scale**, optimizing computer vision pipelines, and building robust MLOps infrastructure. I'm particularly passionate about making AI accessible through efficient model compression, distributed training, and edge deployment.
 
 ### Quick Highlights
-- Currently training a **1.2B parameter LLM from scratch** (100B tokens on 8x A100s)
 - 🦀 Building **high-performance systems in Rust** for ML inference and data processing
 - Deployed **real-time computer vision systems** handling <10ms latency in production
 -  Active in **open-source**: implementing cutting-edge papers and sharing knowledge
